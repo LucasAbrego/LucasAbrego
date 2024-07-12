@@ -10,7 +10,7 @@ He participado en el programa Oracle Next Education, donde adquirí experiencia 
 
 Para especializarme en Java, completé cursos de Desarrollo de APIs con Spring Boot y Microservicios con Spring Cloud en TodoCode. Actualmente, estoy aprendiendo sobre desarrollo seguro de aplicaciones con Spring Security.
 
-También curso el segundo año de la Tecnicatura en Software Libre en la FICH-UNL, donde he ampliado mis conocimientos en infraestructura de red, tecnologías web, sistemas GNU/Linux, Python, MySQL y administración de servidores.
+También curso el segundo año de la Tecnicatura en Software Libre en la FICH-UNL, donde he adquirido conocimientos de infraestructura de redes, tecnologías web, sistemas GNU/Linux, Python, MySQL y administración de servidores.
 
 ## **Skills**
 
