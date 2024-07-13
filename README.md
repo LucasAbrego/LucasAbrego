@@ -6,7 +6,7 @@
 
 Soy desarrollador backend enfocado en Java, con conocimientos en tecnologías como JDBC, Hibernate, Spring y bases de datos MySQL. También he utilizado otros lenguajes como C#, Python, JavaScript y Ruby en la facultad y cursos.
 
-He participado en el programa Oracle Next Education, donde adquirí experiencia con Java, MySQL, JPA, Spring Boot, Hibernate, Git y herramientas como Insomnia, Postman y Trello, además de metodologías ágiles como Agile y Scrum. Luego, continué mi formación en el programa Alumni de Alura, profundizando en MySQL, OCI y análisis de datos con Python.
+He participado en el programa Oracle Next Education, donde adquirí experiencia con Java, MySQL, JPA, Spring Boot, Hibernate, Git y herramientas como Insomnia, Postman y Trello, además de metodologías ágiles como Agile y Scrum. Al finalizarlo se me dio acceso al programa Alumni de Alura donde continué mi formación, profundizando en MySQL, OCI y análisis de datos con Python.
 
 Para especializarme en Java, completé cursos de Desarrollo de APIs con Spring Boot y Microservicios con Spring Cloud en TodoCode. Actualmente, estoy aprendiendo sobre desarrollo seguro de aplicaciones con Spring Security.
 
